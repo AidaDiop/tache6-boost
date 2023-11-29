@@ -1,0 +1,421 @@
+        
+body{
+    font-family: var(--primary-font);
+    background-color: var(--secondary-color);
+    margin: auto;
+ } 
+        
+*{
+    margin: 0;
+    padding: 0;
+}
+
+        
+        
+        /*-----------------------------------------Navbar section--------------------------------------------------*/
+
+.join{
+    color: #fff;
+    border: 1px solid #fff;
+    background: #ff4500;
+    width: 130px;
+}
+
+
+.navbar-nav{
+    color: #000000;
+}.
+
+.navbar-brand img{
+    max-width: 120px;
+    height: auto;
+}
+
+.navbar .nav-link{
+    gap: 50px;
+}
+
+
+.nav-item .nav-link{
+    position: relative;
+    font-size: 16px;
+    font-weight: 500;
+    color: #ff4500;
+
+}
+
+.navbar-toggler .header-wrapper .navbar{
+    margin-right: 0px;
+}
+
+
+ /*-----------------------------------------banner section--------------------------------------------------*/
+
+
+.card{
+    border: 1px solid #008000;
+    background: linear-gradient(90deg, rgba(13, 66, 61, 0.9) -22.84%, rgba(12, 199, 181, 0.9) 138.88%),
+    linear-gradient(0deg, #E6E6E6, #E6E6E6);
+    color: #fff;
+    height: 350px;
+    width: 480px;
+    margin-top: -20px;
+}
+
+.card .card-body .btn-primary{
+    background-color: #F44336; 
+    border: 1px solid #F44336;  
+    border-radius: 10px 10px 10px 10px;
+}
+
+.card .card-body p{
+  color: #fff;
+} 
+
+.img-fluid{
+    width: 100%;
+    background-image: url(Vector\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bottom-img{
+    width: 100%;
+}
+
+
+
+/*-----------------------------------------programme section--------------------------------------------------*/
+
+.card2{
+    border: 1px solid #000000;
+    color: #000000;
+    height: 340px;
+    border-radius: 20px  20px  20px  20px;
+    width: 400px;
+    
+}
+
+.card2 .card2-body .btn-primary{
+    background-color: #F44336; 
+    border: 1px solid #F44336;  
+    border-radius: 10px 10px 10px 10px;
+}
+
+.card2-body .card-text{
+    font-size: 13px;
+}
+
+.card1{
+    border: 1px solid #008000;
+    background: linear-gradient(90deg, rgba(13, 66, 61, 0.9) -22.84%, rgba(12, 199, 181, 0.9) 138.88%),
+    linear-gradient(0deg, #E6E6E6, #E6E6E6);
+    color: #fff;
+    height: 350px;
+    width: 480px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.card1 .card1-body .btn-primary{
+    background-color: #F44336; 
+    border: 1px solid #F44336;  
+    border-radius: 10px 10px 10px 10px;
+}
+
+.cours1{
+    border: 2px solid #F44336;
+    border-radius: 10px 10px 10px 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.cours2{
+    border: 2px solid  #008000;
+    border-radius: 10px 10px 10px 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.cours3{
+    border: 2px solid #ff8c00;
+    border-radius: 10px 10px 10px 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.cours4{
+    border: 2px solid #008000;
+    border-radius: 10px 10px 10px 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+.card3-body p{
+    color: #F44336;
+    border: 1px solid #F44336;
+    width: 180px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+
+.card4-body p{
+    color: #009688;
+    border: 1px solid #009688;
+    width: 180px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.card5-body p{
+    color:#FF9800;
+    border: 1px solid #FF9800;
+    width: 180px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.card6-body p{
+    color: #009688;
+    border: 1px solid #009688;
+    width: 180px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+/*-----------------------------------------diplome section--------------------------------------------------*/
+
+
+.diplome{
+    background: #F44336;
+}
+
+.voir{
+    background: #F44336; 
+    margin-left: 580px;
+    border: none;
+}
+
+
+.card7-body p{
+    border: 1px solid #009688;
+    border-radius: none;
+    width: 180px;
+    margin: 80px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.jane{
+    width: 100px;
+    height: 80px;
+}
+
+.colonne p{
+    border: 1px solid #009688
+}
+
+.point{
+   margin-left: 550px;
+}
+
+/*-----------------------------------------activite section--------------------------------------------------*/
+
+
+.activite{
+    background: #F44336;
+}
+
+button{
+    background-color: #F44336;
+}
+
+/*-----------------------------------------partenaire section--------------------------------------------------*/
+
+
+.avant{
+    background-color: #EEF9F8;
+}
+
+
+.image .logo4{
+    width: 400px;
+}
+
+/*-----------------------------------------footer section--------------------------------------------------*/
+
+
+.apres{
+    background-color: #009688;
+}
+
+
+.pied{
+    margin-left: 80px;
+    margin-top: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 412px){
+    .img-fluid{
+        margin-left: 200px;
+    }
+
+    .card2{
+        margin-left: 60px;
+        width: 520px;
+    }
+
+    .navbar-toggler{
+        position: relative;
+
+    }
+
+    .navbar{
+        width: 580px;
+    }
+
+    img .photo{
+        width: 800px;
+        height: 450px;
+        margin: 0;
+        padding: 0;
+        margin-left: -100px;
+    }
+
+    h2{
+        text-align: center;
+    }
+
+    .card3-body p{
+        width: 300px;
+        margin-left: 100px;
+        padding: 50px;
+    }
+
+    .card4-body p{
+        width: 300px;
+        margin-left: 100px;
+        padding: 50px;
+    }
+
+    .card5-body p{
+        width: 300px;
+        margin-left: 100px;
+        padding: 50px;
+    }
+
+    .card6-body p{
+        width: 300px;
+        margin-left: 100px;
+        padding: 50px;
+    }
+
+    .diplome{
+        width: 600px;
+    }
+
+    .bottom-img{
+        width: 600px;
+    }
+
+    .card{
+        width: 560px;
+    }
+
+    .card1{
+        height: 380px;
+        width: 550px;
+        margin-left: -40px;
+    }
+    
+    .voir{ 
+        margin-left: 200px;
+        border: none;
+    }
+    
+    .colonne p{
+        margin-left: 80px;
+    }
+
+    .point{
+        margin-left: 160px;
+     }
+     
+     p{
+        margin-left: 80px;
+     }
+     
+     .activite {
+        width: 600px;
+    } 
+
+    .apres{
+        width: 552px;
+        font-size: 30px;
+        display: flex;
+        flex-direction: column;
+    }
+    
+
+    .avant{
+        width: 600px;
+        gap: 40px;
+    }
+
+    .groupe2{
+        margin-left: 80px;
+    }
+
+    .groupe3{
+        margin-left: 80px;
+    }
+    
+
+    span{
+        margin-left: 150px;
+    }
+    
+    .avant .img-thumbnail{
+        width: 500px;
+        box-shadow: 15px 15px 15px #E6E6E6;
+    }
+
+    .cons{
+        font-size: 50px;
+        gap: 80px;
+        margin-left: 50px;
+    } 
+
+    
+}
